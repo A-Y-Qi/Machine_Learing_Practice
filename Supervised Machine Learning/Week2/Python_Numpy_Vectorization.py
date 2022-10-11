@@ -200,4 +200,4 @@ print("a[1,:] = ", a[1,:], ",  a[1,:].shape =", a[1,:].shape, "a 1-D array")
 # same as
 print("a[1]   = ", a[1],   ",  a[1].shape   =", a[1].shape, "a 1-D array")
 
-
+#testuse
